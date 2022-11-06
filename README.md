@@ -51,5 +51,3 @@
 
 - Sonuncu eleman olan 2, root'dan küçük olduğundan, ağacın sol tarafına düşer. 5'den küçük, 1'den büyük ve 3'den küçük olduğundan 3'ün sol alt kısmına yazılır.
 ![2](https://github.com/Feyzanisli/binarysearchtreeprojesi/blob/main/semalar/binary10.jpg?raw=true)
-
-foto kontrol
